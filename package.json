@@ -9,7 +9,7 @@
   "author": "Randhir Raj",
   "license": "ISC",
   "dependencies": {
-    "shoppingCart":"file:shoppingCart"
+    "authService":"file:services/authService"
   },
   "type": "module" 
 }
