@@ -1,0 +1,15 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "I am using NPM first time from basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randhir Raj",
+  "license": "ISC",
+  "dependencies": {
+    "shoppingCart":"file:shoppingCart"
+  },
+  "type": "module" 
+}
